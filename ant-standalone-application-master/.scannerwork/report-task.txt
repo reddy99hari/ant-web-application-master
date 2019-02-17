@@ -1,0 +1,6 @@
+projectKey=com.mt.ant.standalone
+serverUrl=http://localhost:9000
+serverVersion=6.7.6.38781
+dashboardUrl=http://localhost:9000/dashboard/index/com.mt.ant.standalone
+ceTaskId=AWjlv_ZA2ESTmHB2y14g
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWjlv_ZA2ESTmHB2y14g
